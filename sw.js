@@ -10,7 +10,7 @@
 
 'use strict';
 
-var precacheConfig = [["/sw-register.js","9b95961d01d90b003931d95372c20368"]];
+var precacheConfig = [["/2023/10/31/hello-world/index.html","df5b4099ffcea8a97489622f44484740"],["/2023/10/31/我的第一篇博客/index.html","65c6e3df1f69569a7067bda1a5b3dc96"],["/archives/2023/10/index.html","29db91d669f00980494344f60fc29021"],["/archives/2023/index.html","7c962e8c5add1bd670842fc35fea94da"],["/archives/index.html","500ec6a0de0986e58eb47b868f0e1e55"],["/css/images/banner.jpg","0394d7ba5b310b5037d2a139bef63fa4"],["/css/style.css","bb2872d0bdd8c37e982c4eb2112451c8"],["/fancybox/jquery.fancybox.min.css","a2d42584292f64c5827e8b67b1b38726"],["/fancybox/jquery.fancybox.min.js","49a6b4d019a934bcf83f0c397eba82d8"],["/index.html","7051d03d5abe91308db2796b883dd893"],["/js/jquery-3.6.4.min.js","641dd14370106e992d352166f5a07e99"],["/js/script.js","539104aee8c85909dca6e2be6817dcd7"],["/sw-register.js","8b45ac08e4b04ebc3570cd97e6cac0b0"]];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 var firstRegister = 1; // 默认1是首次安装SW， 0是SW更新
 
